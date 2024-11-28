@@ -745,7 +745,8 @@ print(rf_classification_report)
 
 
     
-![png](output_21_0.png)
+![png](https://github.com/user-attachments/assets/a9ce1868-c410-4a55-9beb-791034125ff0)
+
     
 
 
@@ -836,13 +837,15 @@ plt.show()
 
 
     
-![png](output_24_0.png)
-    
-
-
+![png](https://github.com/user-attachments/assets/5744fb40-b45c-4f0f-b9f8-6676adc454ed)
 
     
-![png](output_24_1.png)
+
+
+
+    
+![png](https://github.com/user-attachments/assets/167d85f0-cce3-4623-8918-2bd7e4b2f6e5)
+
     
 
 
@@ -887,7 +890,8 @@ plt.show()
 
 
     
-![png](output_27_0.png)
+![png](https://github.com/user-attachments/assets/12fa67d5-0eb3-47c6-b754-56c8b6e64b78)
+
     
 
 
@@ -955,7 +959,8 @@ plt.show()
 
 
     
-![png](output_30_0.png)
+![png](https://github.com/user-attachments/assets/4eeef042-c90a-4805-8407-8c4223018834)
+
     
 
 
@@ -1406,13 +1411,15 @@ plt.show()
 
 
     
-![png](output_41_1.png)
-    
-
-
+![png](https://github.com/user-attachments/assets/d202618d-0705-41a5-a6aa-b73e77c191dd)
 
     
-![png](output_41_2.png)
+
+
+
+    
+![png](https://github.com/user-attachments/assets/5bc402a8-3a52-47db-a19b-7649d58ed087)
+
     
 
 
@@ -1497,7 +1504,8 @@ print(cluster_means)
 
 
     
-![png](output_44_0.png)
+![png](https://github.com/user-attachments/assets/478efbd6-4e47-4d21-b04e-9e97fc00d5a4)
+
     
 
 
@@ -2206,19 +2214,22 @@ plt.show()
 
 
     
-![png](output_64_0.png)
-    
+![png](https://github.com/user-attachments/assets/c993cee3-3e08-449b-9b7a-07a3affe2843)
 
-
-
-    
-![png](output_64_1.png)
     
 
 
 
     
-![png](output_64_2.png)
+![png](https://github.com/user-attachments/assets/fbd69a72-6512-4c54-b5cd-ee5d2a41437e)
+
+    
+
+
+
+    
+![png](https://github.com/user-attachments/assets/d94638a9-5cb4-417f-b931-3550796f0b8e)
+
     
 
 
