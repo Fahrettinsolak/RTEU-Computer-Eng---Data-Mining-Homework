@@ -119,8 +119,6 @@ This dataset contains information aimed at analyzing students' depression status
    - Use stacked bar charts to visualize the relationship between categorical variables like `Sleep Duration` and `Dietary Habits` with the target variable.
 
 This structured introduction provides a clear understanding of the dataset and lays the foundation for further analysis.
-izler için temel oluşturur.
-resyon var.
   - `0`: Depresyon yok.
 
 
@@ -648,9 +646,8 @@ print(dt_classification_report)
 
 ```
 
-
     
-![png](output_18_0.png)
+![png](https://github.com/user-attachments/assets/78027dc2-a0c6-451e-8d39-8445c66ce8a6)
     
 
 
