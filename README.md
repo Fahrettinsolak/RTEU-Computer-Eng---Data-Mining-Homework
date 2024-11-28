@@ -1,13 +1,4 @@
 #                                           RTEU Computer Eng - Data Mining Homework
----- 
-**Name**   : Fahrettin
-
-**Surname**: Solak
-
-**No**     : 201401053
-
------------------------
-
 
 # Question 1:
 
