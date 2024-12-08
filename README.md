@@ -38,6 +38,6 @@ These reports demonstrate the application of machine learning algorithms and eva
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/data-mining-reports.git
+   git clone [https://github.com/yourusername/data-mining-reports.git](https://github.com/Fahrettinsolak/RTEU-Computer-Eng-Data-Mining-Homework.git)
    
 2. Open the reports using any PDF viewer to explore detailed explanations, model evaluations, and key findings.
