@@ -6,17 +6,17 @@ Welcome to the repository containing detailed project reports for a university d
 
 ## **Contents**
 
-1. **[Question 1: Air Quality Prediction and Model Comparison](Question-1_Report.pdf)**  
+1. **[Question 1: Air Quality Prediction and Model Comparison]**  
    - **Data Set:** [Air Quality and Pollution Assessment - Kaggle](https://www.kaggle.com/datasets/mujtabamatin/air-quality-and-pollution-assessment)  
    - **Techniques:** Decision Tree, Random Forest, SVM, Logistic Regression, Voting Classifier  
    - **Highlights:** Data preprocessing, model evaluation, hyperparameter tuning, and ensemble learning.  
 
-2. **[Question 2: Clustering Analysis of Weather Data with K-means](Question-2_Report.pdf)**  
+2. **[Question 2: Clustering Analysis of Weather Data with K-means]**  
    - **Data Set:** [Weather Forecast Data - Kaggle](https://www.kaggle.com/datasets/zeeshier/weather-forecast-dataset)  
    - **Techniques:** K-means Clustering, PCA, Hyperparameter Optimization  
    - **Highlights:** Clustering evaluation using Silhouette, Davies-Bouldin, and Calinski-Harabasz scores.
 
-3. **[Question 3: Analysis by Linear Regression and Alternative Methods](Question-3_Report.pdf)**  
+3. **[Question 3: Analysis by Linear Regression and Alternative Methods]**  
    - **Data Set:** [Medical Cost Personal Datasets - Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download)  
    - **Techniques:** Linear Regression, Ridge, and Lasso Regressions  
    - **Highlights:** Data scaling, feature selection, regularization, and regression model comparison.
